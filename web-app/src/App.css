@@ -1,0 +1,218 @@
+/* Universal */
+.row{
+  margin: 0px !important;
+}
+/* Header */
+.navbar{
+  background: #68E1FD !important;
+}
+.navbar a{
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 700;
+  color: #F5F5F5 !important;
+}
+.navbar-nav{
+  margin-right: auto;
+  margin-left: 90px;
+}
+.navbar-nav li{
+  margin-right: 47px;
+}
+/* Panel */
+.panel-heading{
+  padding: 150px 100px 20px 80px;
+}
+.panel-heading p{
+  font-size: 46px;
+  padding-bottom: 5px !important;
+  margin-bottom: 0px !important;
+  font-weight: 500;
+  line-height: 56px;
+  color: rgba(0, 0, 0, 0.62) !important;
+}
+.panel-heading h1{
+  padding-top: 0px !important;
+  margin-top: 0px !important;
+  font-size: 56px;
+  font-weight: 700;
+  color: #68E1FD;
+}
+.panel-img{
+  padding: 50px;
+}
+.navigator{
+  margin: 50px 20px 50px 80px !important;
+}
+.programs-btn, .remote-btn{
+  display: inline;
+  margin-right: 25px;
+}
+.programs-btn a, .remote-btn a{
+  background: #68E1FD;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  font-weight: 500;
+  padding: 20px 50px;
+  font-size: 25.2036px;
+  line-height: 31px;
+  text-align: center;
+  color: #FFFFFF !important;
+}
+.search-area{
+  margin: 100px 100px;
+}
+.search-area input{
+  background: #F5F5F5;
+  opacity: 0.5;
+  border: 1px solid #C3C3C3;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.15);
+  border-radius: 8px;
+  padding: 30px 60px;
+  font-weight: 500;
+  font-size: 18.3835px;
+  line-height: 22px;
+  color: #C3C3C3;
+}
+.submit button{
+  background: #68E1FD;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 19px;
+  width: 100%;
+  border: none;
+  padding: 30px 60px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+.list{
+  margin: 10px 100px;
+  justify-content: center !important;
+}
+.list .col-md-3{
+  margin: 20px 10px !important;
+}
+.item-card{
+  margin: 20px 0px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  padding: 25px;
+}
+.item-card h3{
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+}
+.item-card p{
+  font-weight: 500;
+  font-size: 14.6527px;
+  line-height: 23px;
+  color: #999999;
+}
+.item-card .explore-btn{
+  background: #68E1FD;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  padding: 10px 40px;
+  color: #FFFFFF;
+}
+.refer-card{
+  margin: 20px 0px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  padding: 25px;
+}
+.refer-card h2{
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+}
+.refer-card p{
+  font-weight: 500;
+  font-size: 14.6527px;
+  line-height: 23px;
+  color: #999999;
+}
+.refer-card .company{
+  background: #68E1FD;
+  color: #FFFFFF;
+  font-size: 20px;
+  width: fit-content;
+  font-weight: 700;
+  border-radius: 25px;
+  padding: 10px 20px;
+}
+.refer-btn button{
+  padding: 10px 20px;
+  border: none !important;
+  border-radius: 15px !important;
+}
+label{
+  display: inline-block !important;
+  width: 100%;
+  font-weight: 700;
+  /* color: #FFFFFF; */
+  font-size: 24px;
+  margin-top: 20px;
+}
+input{
+  display: inline-block !important;
+  width: 100% !important;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 15px;
+}
+.modal-header{
+  border-bottom: none;
+}
+.modal-body{
+  background-color: #F5F5F5;
+}
+.result-card{
+  margin: 20px 0px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  padding: 25px;
+}
+.emp-details h3{
+  font-weight: 700;
+  font-size: 36px;
+  margin: 20px 0px 30px 120px;
+}
+.emp-details h3 span{
+  font-weight: 700;
+  font-size: 46px;
+  color: #68E1FD;
+}
+.result-card p span{
+  font-size: 26px;
+  font-weight: 700;
+}
+.result-card .red{
+  color: red;
+}
+.result-card .green{
+  color: green;
+}
+.result-card p {
+  font-size: 20px;
+}
+.result-card h5 span{
+  font-weight: 700;
+  font-size: 40px;
+}
+.emp-details h1{
+  margin: 20px 0px 10px 120px;
+}
+.emp-details h1 span{
+  color: #68E1FD;
+  font-weight: 900;
+}

@@ -1,0 +1,32 @@
+{
+    "Referrals": [
+        {
+            "Name": "Pulkit Aggarwal",
+            "Company Name": "Google",
+            "Position": "Senior Technical Architect",
+            "Skills Required": "Graduate in Economics, Business, Engineering, or other quantitative focus with 2+ year of experience, Excellent SQL skills,Communication skills with the ability to distil complex subjects to a wider audience, Experience with Python, Pyspark",
+            "Referral For Position:": "Software Engineer 1, Software Engineer 2"
+        },
+        {
+            "Name": "Parth Arora",
+            "Company Name": "Amazon",
+            "Position": "Software Engineer 1",
+            "Skills Required": "Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations, C++, Python, TypeScript",
+            "Referral For Position:": "Software Engineer "
+        },
+        {
+            "Name": "Aaron Finch",
+            "Company Name": "Atlassian",
+            "Position": "Data Analyst",
+            "Skills Required": "Python R Data Wrangling Visualisation Cleaning Selenium Artificial Intelligence",
+            "Referral For Position:": "Data Science Intern"
+        },
+        {
+            "Name": "Stuart Kohli",
+            "Company Name": "Major League Hacking",
+            "Position": "Full Stack Developer",
+            "Skills Required": "Google HTML CSS React.js Hard-Working Anguar.js JavaScript Software Engineer API",
+            "Referral For Position:": "Front End Developer"
+        }
+    ]
+}

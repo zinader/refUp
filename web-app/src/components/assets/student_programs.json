@@ -1,0 +1,123 @@
+﻿{
+    "Programs": [
+        {
+            "Program Name": "MLH Fellowship",
+            "Description ": "The MLH Fellowship is a 12-week internship alternative for aspiring software engineers. Our programs pair fun, educational curriculum with practical experience that you can put on your resume right away. It's collaborative, remote, and happens under the guidance of expert mentors.",
+            "Apply Link": "https://fellowship.mlh.io/"
+        },
+        {
+            "Program Name": "Google DSC Lead",
+            "Description ": "Developer Student Club Leads are passionate leaders at their university who are dedicated to helping their peers learn and connect. These Leads may be pursuing various degrees but have a good foundational knowledge of software development concepts. Google collaborates with DSC Leads once a year who are pursuing an undergraduate or graduate university degree and supports them as they start and grow their on-campus community.",
+            "Apply Link": "https://developers.google.com/community/dsc/leads"
+        },
+        {
+            "Program Name": "Microsoft Student Learn Ambassador",
+            "Description ": "You might find yourself helping fellow students build their coding skills online with Microsoft Learn, organizing a virtual hackathon to solve real-world challenges, earning certifications, or building digital communities—it’s all up to you.",
+            "Apply Link": "https://studentambassadors.microsoft.com/"
+        },
+        {
+            "Program Name": "Github Campus Expert",
+            "Description ": "Campus Experts are student leaders that strive to build diverse and inclusive spaces to learn skills, share their experiences, and build projects together. They can be found across the globe leading in-person and online conferences, meetups, and hackathons, and maintaining open source projects.",
+            "Apply Link": "https://education.github.com/students/experts"
+        },
+        {
+            "Program Name": "Outreachy",
+            "Description ": "Outreachy provides remote internships. Outreachy supports diversity in open source and free software! Outreachy internships are 3 months long. Interns are paid an internship stipend of $6,000 USD.",
+            "Apply Link": "https://www.outreachy.org/"
+        },
+        {
+            "Program Name": "Student Ambassador By IBM",
+            "Description ": "IBM Student Ambassadors have a passion for making a difference on their campus. They are inspired to learn about technologies that will enable them to turn their ideas into new solutions. And they are committed to sharing their ideas, talents, and knowledge with others. ",
+            "Apply Link": "https://www.ibm.com/developerworks/champion/students.html"
+        },
+        {
+            "Program Name": "Mozilla Campus Club",
+            "Description ": "Local groups of students with a passion for technology working together to build the open web on University and College campuses worldwide.",
+            "Apply Link": "https://campus.mozilla.community/get-started/"
+        },
+        {
+            "Program Name": "Linux Kernel Mentorship Program",
+            "Description ": "The Linux Kernel Mentorship Program offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.",
+            "Apply Link": "https://wiki.linuxfoundation.org/lkmp"
+        },
+        {
+            "Program Name": "Community Bridge Mentorship Program (CNCF)",
+            "Description ": "CommunityBridge is a platform that brings an opportunity to offer paid internships and mentorships to developers interested in getting involved in open source projects."
+        },
+        {
+            "Program Name": "Hacktober Fest by Digital Ocean",
+            "Description ": "Support open source and pick a limited edition T-shirt or plant a tree.",
+            "Apply Link": "https://hacktoberfest.digitalocean.com/"
+        },
+        {
+            "Program Name": "Open Mainframe Project ",
+            "Description ": "Learn valuable mainframe skills to launch your career while helping improve the state of Linux and Open Source on Mainframe development community.",
+            "Apply Link": "https://www.openmainframeproject.org/projects/mentorship-program"
+        },
+        {
+            "Program Name": "Foss Asia Codeheat",
+            "Description ": "Codeheat is a coding contest for FOSSASIA Projects on Github. The contest runs until June 1, 2021. The contest is separated into two months period after which winners of each period are announced.",
+            "Apply Link": "https://codeheat.org/"
+        },
+        {
+            "Program Name": "Redox Summer of Code",
+            "Description ": "Redox is a large project spread out across many repos which can be found in the Redox organization on GitLab. You can contribute to these projects and gain valuable open-source contribution experience.",
+            "Apply Link": "https://www.redox-os.org/docs/"
+        },
+        {
+            "Program Name": "Hyperledger Mentorship Program",
+            "Description ": "The Hyperledger mentorship program is aimed at creating a structured hands-on learning opportunity for new developers who may otherwise lack the opportunity to gain exposure to Hyperledger open source development and entry to the technical community.",
+            "Apply Link": "https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program"
+        },
+        {
+            "Program Name": "Open Summer of Code (OSoC) for Students",
+            "Description ": "A 4-week summer programme in July, that provides  students the training, network and support necessary to transform open innovation projects into powerful real-world services. Please read FAQ to check whether you are eligible.",
+            "Apply Link": "https://osoc.be/practical"
+        },
+        {
+            "Program Name": "Alibaba Summer of Code",
+            "Description ": "Alibaba Summer of Code is a global campaign focusing on engaging students directly into open source software development. Under the guidance of the mentors from Alibaba, students can use the summer to participate in a series of open source projects with the core members of the communities and experience software development in the real world.",
+            "Apply Link": "https://www.alibabacloud.com/campaign/summerofcode2020?spm=a3c0i.14652930.7032882830.1.6b14639ey9eK4R#J_3844638270"
+        },
+        {
+            "Program Name": "Free Software Foundation (FSF) Internship Program",
+            "Description ": "This is an educational opportunity to work with the organization that sponsors the GNU Project, publishes the GNU General Public License (GPL), and fights for software freedom.",
+            "Apply Link": "https://www.fsf.org/volunteer/internships"
+        },
+        {
+            "Program Name": "Google Summer of Earth Engine (SoEE) ",
+            "Description ": "Google Summer of Earth Engine is a research program for Indian university students & researchers to get a chance to work with leading research organizations in the country working  in environment, conservation, water resources and agricultural domains over 3 months of summer on a project and get paid to do so! (Only for Indian Students) Applications are currently closed.",
+            "Apply Link": "https://sites.google.com/view/summerofearthengine/home?authuser=0"
+        },
+        {
+            "Program Name": "The Processing Foundation Fellowships ",
+            "Description ": "The Processing Foundation Fellowships support artists, coders, and collectives in visionary projects that conceive a new direction for what Processing as a software and a community can do.",
+            "Apply Link": "https://processingfoundation.org/fellowships"
+        },
+        {
+            "Program Name": "Campus Ambassador At Coding Ninjas",
+            "Description ": "A program that brings out your Leadership skills and hones your talent towards innovation and taking up exclusive ownership being a part of Ninjas family. (Only for Indian Students)",
+            "Apply Link": "https://campus.codingninjas.com/"
+        },
+        {
+            "Program Name": "HackerEarth Student Ambassador",
+            "Description ": "The HackerEarth Campus Ambassador Program is a platform for students who are passionate about programming to start and run an active programming club in their college. A HackerEarth Campus Ambassador is a leader with a keen interest in starting and building a programming community.",
+            "Apply Link": "https://www.hackerearth.com/docs/wiki/campus/introduction/"
+        },
+        {
+            "Program Name": "Cisco DevNet Student Ambassador Program",
+            "Description ": "Cisco DevNet is a community to help developers build on Cisco APIs and platforms. Be our point of contact in your college. Develop an entrepreneurial mindset by tackling technical and business challenges as you organize various events on campus.",
+            "Apply Link": "https://developer.cisco.com/site/student/"
+        },
+        {
+            "Program Name": "OnePlus Student Ambassador",
+            "Description ": "OnePlus Student Ambassador Program is a campus connect program that aims to form a community of like -minded students across India. The program facilitates and nurtures the skills to contribute to your career growth. We want to empower, strengthen and groom select students across India who will serve as OnePlus community specialists, brand evangelists and experts in their respective institutions. (Only for Indian Students)",
+            "Apply Link": "https://www.oneplus.in/campus"
+        },
+        {
+            "Program Name": "Season of KDE",
+            "Description ": "KDE Student Programs offer an opportunity to everyone (not just students) to participate in both code and non-code projects that benefits the KDE ecosystem. ",
+            "Apply Link": "https://season.kde.org/"
+        }
+    ]
+}
